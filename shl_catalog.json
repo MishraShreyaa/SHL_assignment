@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Verify Numerical Reasoning",
+    "description": "Measures a candidate's ability to interpret and analyse numerical data presented in tables, charts and graphs to make correct business decisions.",
+    "skills": ["numerical reasoning", "data interpretation", "analytical thinking"],
+    "duration": 18,
+    "category": "Cognitive Ability",
+    "test_type": "A",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-reasoning/"
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "description": "Evaluates the ability to understand and evaluate written information, useful for roles that require reading and interpreting reports or policies.",
+    "skills": ["verbal reasoning", "reading comprehension", "critical thinking"],
+    "duration": 17,
+    "category": "Cognitive Ability",
+    "test_type": "A",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-reasoning/"
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "description": "Assesses a candidate's ability to identify patterns and solve problems from abstract, non-verbal information, a strong predictor of general learning ability.",
+    "skills": ["inductive reasoning", "pattern recognition", "problem solving"],
+    "duration": 24,
+    "category": "Cognitive Ability",
+    "test_type": "A",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning/"
+  },
+  {
+    "name": "Verify G+ (General Ability)",
+    "description": "A short, adaptive general mental ability test combining numerical, verbal and inductive reasoning into a single score, often used as a first-stage screen.",
+    "skills": ["general ability", "numerical reasoning", "verbal reasoning", "inductive reasoning"],
+    "duration": 36,
+    "category": "Cognitive Ability",
+    "test_type": "A",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-plus/"
+  },
+  {
+    "name": "OPQ32r",
+    "description": "The Occupational Personality Questionnaire measures 32 dimensions of workplace personality, useful for understanding a candidate's preferred style of working, influencing and decision making.",
+    "skills": ["personality assessment", "workplace behaviour", "team fit"],
+    "duration": 25,
+    "category": "Personality & Behaviour",
+    "test_type": "P",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/"
+  },
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "description": "Explores what energises and motivates a candidate at work, helping predict engagement and retention in a given role.",
+    "skills": ["motivation", "engagement", "self-awareness"],
+    "duration": 25,
+    "category": "Personality & Behaviour",
+    "test_type": "P",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire/"
+  },
+  {
+    "name": "ADEPT-15",
+    "description": "A adaptive personality assessment built for high-volume hiring, measuring 15 workplace traits to predict job performance and cultural fit.",
+    "skills": ["personality assessment", "job fit", "high volume hiring"],
+    "duration": 20,
+    "category": "Personality & Behaviour",
+    "test_type": "P",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adept-15/"
+  },
+  {
+    "name": "Remote Work Questionnaire (RWQ)",
+    "description": "Measures a candidate's readiness and preferences for remote or hybrid working arrangements, including self-discipline and communication style.",
+    "skills": ["remote work readiness", "self-management", "communication"],
+    "duration": 15,
+    "category": "Personality & Behaviour",
+    "test_type": "P",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/remote-work-questionnaire/"
+  },
+  {
+    "name": "Global Skills Assessment (GSA)",
+    "description": "A situational judgement test measuring a candidate's decision making across common workplace scenarios such as teamwork, customer focus and problem solving.",
+    "skills": ["situational judgement", "decision making", "workplace scenarios"],
+    "duration": 30,
+    "category": "Situational Judgement",
+    "test_type": "S",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/"
+  },
+  {
+    "name": "Contact Centre Situational Judgement Test",
+    "description": "Presents realistic customer service scenarios to evaluate how a candidate would respond in a contact centre environment.",
+    "skills": ["customer service", "situational judgement", "communication"],
+    "duration": 20,
+    "category": "Situational Judgement",
+    "test_type": "S",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-centre-sjt/"
+  },
+  {
+    "name": "Java 8 (New)",
+    "description": "Tests core Java 8 programming knowledge including collections, streams, lambda expressions and object-oriented concepts.",
+    "skills": ["java", "oop", "collections", "streams", "lambda expressions"],
+    "duration": 15,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/"
+  },
+  {
+    "name": "Java Spring Boot",
+    "description": "Assesses practical knowledge of building REST APIs and services using the Spring Boot framework.",
+    "skills": ["java", "spring boot", "rest api", "backend development"],
+    "duration": 20,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-spring-boot/"
+  },
+  {
+    "name": "Python (New)",
+    "description": "Evaluates core Python programming skills including data structures, functions, error handling and basic scripting.",
+    "skills": ["python", "data structures", "scripting", "debugging"],
+    "duration": 15,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/"
+  },
+  {
+    "name": "JavaScript (New)",
+    "description": "Tests fundamental JavaScript concepts including DOM manipulation, asynchronous programming and ES6 syntax.",
+    "skills": ["javascript", "dom", "async programming", "es6"],
+    "duration": 15,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/"
+  },
+  {
+    "name": "SQL Server (New)",
+    "description": "Measures a candidate's ability to write and optimise SQL queries, including joins, subqueries and stored procedures.",
+    "skills": ["sql", "database design", "query optimisation"],
+    "duration": 15,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/"
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "description": "Assesses knowledge of the .NET framework, C# syntax and common application development patterns.",
+    "skills": [".net", "c#", "oop", "application development"],
+    "duration": 18,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dotnet-framework-4-5/"
+  },
+  {
+    "name": "C# Programming",
+    "description": "Tests core C# language features including classes, interfaces, exception handling and LINQ.",
+    "skills": ["c#", "linq", "oop", "exception handling"],
+    "duration": 15,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/csharp-programming/"
+  },
+  {
+    "name": "HTML5 and CSS3",
+    "description": "Evaluates front-end fundamentals including semantic HTML, responsive layouts and CSS styling techniques.",
+    "skills": ["html", "css", "responsive design", "frontend"],
+    "duration": 12,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/html5-css3/"
+  },
+  {
+    "name": "Selenium (New)",
+    "description": "Tests practical knowledge of automated web testing using Selenium WebDriver, including locators and test scripting.",
+    "skills": ["selenium", "test automation", "qa", "webdriver"],
+    "duration": 20,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/"
+  },
+  {
+    "name": "Manual Testing",
+    "description": "Assesses a candidate's ability to design test cases, identify defects and follow a structured QA process without automation tools.",
+    "skills": ["manual testing", "qa", "test case design", "bug tracking"],
+    "duration": 15,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing/"
+  },
+  {
+    "name": "Automata - Fix (Coding Debugging)",
+    "description": "A hands-on coding simulation where candidates fix bugs in existing code, measuring real-world debugging ability rather than pure syntax knowledge.",
+    "skills": ["debugging", "coding", "problem solving"],
+    "duration": 30,
+    "category": "Technical Skills",
+    "test_type": "S",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix/"
+  },
+  {
+    "name": "Automata - Selenium (Coding Simulation)",
+    "description": "A live coding simulation that asks candidates to write and run Selenium automation scripts in a sandboxed environment.",
+    "skills": ["selenium", "test automation", "coding simulation"],
+    "duration": 40,
+    "category": "Technical Skills",
+    "test_type": "S",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/"
+  },
+  {
+    "name": "Data Science (New)",
+    "description": "Tests foundational data science knowledge including statistics, data cleaning and basic machine learning concepts.",
+    "skills": ["statistics", "machine learning basics", "data cleaning", "python"],
+    "duration": 25,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-science-new/"
+  },
+  {
+    "name": "Microsoft Excel 365",
+    "description": "Assesses practical spreadsheet skills including formulas, pivot tables and data formatting in Excel 365.",
+    "skills": ["excel", "spreadsheets", "pivot tables", "formulas"],
+    "duration": 20,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365/"
+  },
+  {
+    "name": "Basic Computer Literacy",
+    "description": "Measures fundamental computer skills such as file management, using a browser and basic office software, suited for entry-level roles.",
+    "skills": ["computer literacy", "file management", "office software"],
+    "duration": 10,
+    "category": "Basic Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy/"
+  },
+  {
+    "name": "Verify Typing Test",
+    "description": "Measures typing speed and accuracy, commonly used for data entry and administrative roles.",
+    "skills": ["typing speed", "typing accuracy", "data entry"],
+    "duration": 10,
+    "category": "Basic Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-typing-test/"
+  },
+  {
+    "name": "Administrative Professional (New)",
+    "description": "Evaluates skills relevant to office administration roles including scheduling, written communication and attention to detail.",
+    "skills": ["administration", "attention to detail", "written communication"],
+    "duration": 20,
+    "category": "Basic Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-new/"
+  },
+  {
+    "name": "Financial and Analytical Reasoning",
+    "description": "Assesses the ability to interpret financial statements and analytical data, relevant for finance and analyst roles.",
+    "skills": ["financial analysis", "numerical reasoning", "analytical thinking"],
+    "duration": 25,
+    "category": "Cognitive Ability",
+    "test_type": "A",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-analytical-reasoning/"
+  },
+  {
+    "name": "Sales Situational Judgement Test",
+    "description": "Presents realistic sales scenarios to evaluate a candidate's approach to negotiation, objection handling and customer relationship building.",
+    "skills": ["sales", "negotiation", "situational judgement"],
+    "duration": 20,
+    "category": "Situational Judgement",
+    "test_type": "S",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-sjt/"
+  },
+  {
+    "name": "Workplace Safety Assessment",
+    "description": "Measures a candidate's attitude towards workplace safety practices and rule following, common in manufacturing and logistics roles.",
+    "skills": ["safety awareness", "rule following", "risk perception"],
+    "duration": 15,
+    "category": "Personality & Behaviour",
+    "test_type": "P",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-safety-assessment/"
+  },
+  {
+    "name": "Verify Deductive Reasoning",
+    "description": "Tests logical reasoning by asking candidates to draw valid conclusions from a set of given statements or rules.",
+    "skills": ["deductive reasoning", "logic", "problem solving"],
+    "duration": 18,
+    "category": "Cognitive Ability",
+    "test_type": "A",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/"
+  },
+  {
+    "name": "Project Management Skills",
+    "description": "Assesses knowledge of core project management concepts such as scheduling, risk management and stakeholder communication.",
+    "skills": ["project management", "planning", "stakeholder communication"],
+    "duration": 20,
+    "category": "Technical Skills",
+    "test_type": "K",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/project-management-skills/"
+  }
+]
