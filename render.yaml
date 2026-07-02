@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: shl-assessment-agent
+    runtime: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "uvicorn app.main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL_NAME
+        value: gemini-2.5-flash
+      - key: EMBEDDING_MODEL_NAME
+        value: all-MiniLM-L6-v2
+      - key: TOP_K
+        value: "10"
+      - key: CATALOG_PATH
+        value: data/shl_catalog.json
+      - key: MAX_TURNS
+        value: "8"
+    healthCheckPath: /health
